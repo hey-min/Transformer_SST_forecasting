@@ -2,6 +2,9 @@
 """
 Created on Thu Mar 16 17:41:22 2023
 
+reference
+https://github.com/oliverguhr/transformer-time-series-prediction.git
+
 @author: Kiost
 """
 
